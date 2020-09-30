@@ -1,7 +1,12 @@
+# Sketch Component Library
 
-# sketch-mobile-components
+- Public beta version of Sketch components.
+- Used to build [iOS Component Library](https://github.com/hmrc/ios-components) & [Android Component Library](https://github.com/hmrc/android-components).
+- Updates need to be manually downloaded and updated at this time. 
+- Ensure both Sketch files are in the same directory.
+- Install the `Icons.sketch` file followed by the `Components Library X.X.sketch file`.
+- If you encounter any problems with missing icons it might be because the Component Library file cannot locate the Icons file. You will need to ensure the Icons file is installed and then relink the icons in Component Library file.
 
-This is a placeholder README.md for a new repository
 
 ### License
 
