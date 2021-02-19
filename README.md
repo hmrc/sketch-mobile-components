@@ -8,7 +8,7 @@
 - If you encounter any problems with missing icons it might be because the Component Library file cannot locate the Icons file. You will need to ensure the Icons file is installed and then relink the icons in Component Library file.
 
 ### Invision Documentation
-- This can be found [here](https://hmrc.invisionapp.com/console/share/EXOVJCPYDPN)
+- You can read about the components and their usage [here](https://hmrc.invisionapp.com/console/share/EXOVJCPYDPN).
 ### License
 
 This code is open source software licensed under the [Apache 2.0 License]("http://www.apache.org/licenses/LICENSE-2.0.html").
